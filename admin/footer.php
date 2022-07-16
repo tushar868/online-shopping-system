@@ -4,7 +4,7 @@
             <ul>
               <li>
                 <a href="">
-                  PuneethReddy
+                  
                 </a>
               </li>
             </ul>
@@ -13,8 +13,8 @@
             &copy;
             <script>
               document.write(new Date().getFullYear())
-            </script>, made with <i class="material-icons">favorite</i> by
-            <a href="" target="_blank">Puneethreddy</a> for a better web.
+            </script>, made with <i class="material-icons"></i> 
+            
           </div>
           <!-- your footer here -->
         </div>
